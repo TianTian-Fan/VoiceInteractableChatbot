@@ -42,5 +42,6 @@ Can't directly upload the project into GitHub due to the maximum file limit, so 
 
 ## ***Demo and Screenshot***
 Demo: https://youtu.be/Jk9x4ebHmUk
+Screenshot:
 ![Screenshot](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/e2567f6d-4eca-4c8f-a1db-c29061aea513)
 
