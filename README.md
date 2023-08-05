@@ -7,7 +7,7 @@
 
 ## ***Project Information***
 ### ***Python Side***
-For running the Python file, make sure to install the following libraries:
+For running the Python file, make sure to install the following libraries(Python 3.10 recommended):
 ```
 -pip install openai
 =======================
