@@ -41,4 +41,4 @@ Can't directly upload the project into GitHub due to the maximum file limit, so 
 - **The Avatar will repeat the answer after you do not ask a new question for 30 seconds.**
 
 ## ***Demo Video***
-[![Demo](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/0e761e38-3236-4140-bede-dec4112c3a94)](https://youtu.be/Jk9x4ebHmUk)
+[![Demo](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/0e761e38-3236-4140-bede-dec4112c3a94.png?raw=true)](https://youtu.be/Jk9x4ebHmUk)
