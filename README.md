@@ -40,5 +40,6 @@ Can't directly upload the project into GitHub due to the maximum file limit, so 
 - **Ask the first question ASAP(maximum 12 seconds) after you see the avatar, otherwise, the avatar will not talk anymore.**
 - **The Avatar will repeat the answer after you do not ask a new question for 30 seconds.**
 
-## ***Demo Video***
-[![Demo](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/e2567f6d-4eca-4c8f-a1db-c29061aea513)](https://youtu.be/Jk9x4ebHmUk)
+## ***Demo and Screenshot***
+![Screenshot](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/e2567f6d-4eca-4c8f-a1db-c29061aea513)
+[Demo](https://youtu.be/Jk9x4ebHmUk)
