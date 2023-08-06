@@ -20,7 +20,7 @@ For running the Python file, make sure to install the following libraries(Python
 
 - [OpenAI](https://github.com/openai/openai-python)
 - [Whisper](https://github.com/openai/whisper)
-need ffmpeg ```choco install ffmpeg``` using [Chocolatey](https://chocolatey.org/install)**(It is recommended that installing choco and ffmpeg in Windows PowerShell instead of cmd)**
+need ffmpeg ```choco install ffmpeg``` using [Chocolatey](https://chocolatey.org/install)**(It is recommended that installing chocolatey and ffmpeg in Windows PowerShell instead of cmd)**
 and [PyTorch](https://pytorch.org/get-started/locally/)
 - [SpeechRecognition](https://github.com/Uberi/speech_recognition)
 need PyAudio ```pip install pyaudio```
