@@ -36,7 +36,7 @@ Can't directly upload the project into GitHub due to the maximum file limit, so 
 **Important: Put your own [AWS](https://aws.amazon.com/console/) keys(accessKey and secretKey) in line 99 of the script named WebRequest**
 
 ## ***Known Issues***
-- **Can't provide the executable of Python file and Unity project because the packaged executable does not contain the API key.**
+- **Because the API keys will automatically get abandoned if they become publicly viewable, then the executable of the Python file and Unity project will not run properly because they lack the API keys, I am sorry if you think this installation guide complex, but I believe it is the only way.**
 - **Ask the first question ASAP(maximum 12 seconds) after you see the avatar, otherwise, the avatar will not talk anymore.**
 - **The Avatar will repeat the answer after you do not ask a new question for 30 seconds.**
 
