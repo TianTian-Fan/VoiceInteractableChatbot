@@ -44,12 +44,12 @@ Don't worry, you only need to following steps to solve this:
 - Navigate to where you placed the extracted files, select package.json
 - The project should be good to go.
 
-
+There are two scenes called "Hologram" and "PC". "Hologram" is clean and used for hologram effect, it only contains the avatar and necessary functions. In "PC", there are various prop models and post-effects to bring a better visual experience.
 **Important: Put your own [AWS](https://aws.amazon.com/console/) keys(accessKey and secretKey) in line 99 of the script named WebRequest**
 
 ## ***Known Issues***
 - **Because the API keys will automatically get abandoned if they become publicly viewable, so there will be no API keys in our source code. However, the executable of the Python file and Unity project need API keys to work properly, so we can't provide executables either. I am sorry if you think this installation guide is complex, but I believe it is the only way.**
-- **Ask the first question ASAP(maximum 12 seconds) after you see the avatar, otherwise, the avatar will not talk anymore.**
+- **In "PC" scene, Ask the first question ASAP(maximum 12 seconds) after you see the avatar, otherwise, the avatar will not talk anymore. The "hologram" scene doesn't have this issue.**
 - **The Avatar will repeat the answer after you do not ask a new question for 30 seconds.**
 
 ## ***Demo and Screenshot***
