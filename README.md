@@ -42,7 +42,7 @@ Don't worry, you only need to following steps to solve this:
 - Extract the .zip file to a directory
 - In Unity, open the Package Manager window and click the Add button, then select Add package from disk
 - Navigate to where you placed the extracted files, select package.json
-- The project should be all good to go.
+- The project should be good to go.
 
 
 **Important: Put your own [AWS](https://aws.amazon.com/console/) keys(accessKey and secretKey) in line 99 of the script named WebRequest**
