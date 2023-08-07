@@ -11,7 +11,7 @@ For running the Python file, make sure to install the following libraries(Python
 ```
 -pip install openai
 =======================
--pip install whisper
+-pip install openai-whisper
 =======================
 -pip install SpeechRecognition
 =======================
