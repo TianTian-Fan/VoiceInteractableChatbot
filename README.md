@@ -33,8 +33,15 @@ need PyAudio ```pip install pyaudio```
 
 [Project Download](https://drive.google.com/file/d/1uYsbyf87-v0hFqGun_58hJD2LB9w36VB/view?usp=drive_link)
 
-If you encounter this when you try to open the unity project
+If you encounter this when you try to open the Unity project:
 ![Issue](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/4c1f6a32-8d51-43cf-a597-6ea22d7b9404)
+Don't worry,
+1. Hit the "Continue" button to get into the project
+2. Download the package [here](https://www.reallusion.com/auto-setup/unity/download.html), choose HDRP 12
+3. Extract the .zip file to a directory
+4. In Unity, open the Package Manager window and click the Add button, then select Add package from disk
+5. Navigate to where you placed the extracted files, select package.json
+6. The project should be all good to go.
 
 
 **Important: Put your own [AWS](https://aws.amazon.com/console/) keys(accessKey and secretKey) in line 99 of the script named WebRequest**
