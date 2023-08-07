@@ -31,7 +31,7 @@ need PyAudio ```pip install pyaudio```
 
 **Important: Put your own [OpenAI API](https://openai.com/blog/openai-api) key in line 8 of the code**
 
-### ***Unity Side***(2021.3.11f recommended, not sure if there are issues with other version)
+### ***Unity Side***(make sure to use 2021.3.11f version, other versions may cause issues!)
 I am sorry that I can't directly upload the project into GitHub due to the maximum file limit(The avatar model and animation created by Character Creator and iClone are over 50MB), so I will provide a link to download the project instead:
 
 [Project Download](https://drive.google.com/file/d/1uYsbyf87-v0hFqGun_58hJD2LB9w36VB/view?usp=drive_link)
