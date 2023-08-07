@@ -35,6 +35,7 @@ need PyAudio ```pip install pyaudio```
 
 If you encounter this when you try to open the Unity project:
 ![Issue](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/4c1f6a32-8d51-43cf-a597-6ea22d7b9404)
+
 Don't worry,
 1. Hit the "Continue" button to get into the project
 2. Download the package [here](https://www.reallusion.com/auto-setup/unity/download.html), choose HDRP 12
