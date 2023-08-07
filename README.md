@@ -6,7 +6,7 @@
 - **Gary Liu** - Animation - gary.liu@ontariotechu.net
 
 ## ***Project Information***
-This project is a voice interactable AI chatbot, it is based on OpenAI, Whisper, Flask, AWS Polly, and Oculus Lip Sync. We want to combine old fashion with new technology, so we made the style of environment like last century! It is so interesting to mix old and new together, last but not least, don't forget to ask any questions to the chatbot!
+This project is a voice interactable AI chatbot, it is based on OpenAI, Whisper, Flask, AWS Polly, and Oculus Lip Sync. We want to combine old fashion with new technology, so we made the style of environment like last century! It is so interesting to mix old and new together, and don't forget to ask any questions to the chatbot!
 
 ## ***Installation Guide***
 ### ***Python Side***
