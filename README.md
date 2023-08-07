@@ -33,6 +33,9 @@ need PyAudio ```pip install pyaudio```
 
 [Project Download](https://drive.google.com/file/d/1uYsbyf87-v0hFqGun_58hJD2LB9w36VB/view?usp=drive_link)
 
+![Issue](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/4c1f6a32-8d51-43cf-a597-6ea22d7b9404)
+
+
 **Important: Put your own [AWS](https://aws.amazon.com/console/) keys(accessKey and secretKey) in line 99 of the script named WebRequest**
 
 ## ***Known Issues***
