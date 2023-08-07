@@ -40,7 +40,7 @@ If you encounter this when you try to open the Unity project:
 ![Issue](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/4c1f6a32-8d51-43cf-a597-6ea22d7b9404)
 
 Don't worry, you only need to following steps to solve this:
-- Hit the "Continue" button to get into the project
+- Hit the **"Continue"** button to get into the project
 - Download the package **[here](https://www.reallusion.com/auto-setup/unity/download.html)**, choose HDRP 12
 - Extract the .zip file to a directory
 - In Unity, open the **Package Manager** window and click the Add button, then select Add package from disk
