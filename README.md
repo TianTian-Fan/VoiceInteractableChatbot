@@ -59,3 +59,6 @@ Demo: https://youtu.be/Jk9x4ebHmUk
 Screenshot:
 ![Screenshot](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/e2567f6d-4eca-4c8f-a1db-c29061aea513)
 
+For any issues and feedback:
+tiantian.fan@ontariotechu.net
+
