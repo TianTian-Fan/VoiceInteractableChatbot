@@ -45,6 +45,7 @@ Don't worry, you only need to following steps to solve this:
 - The project should be good to go.
 
 There are two scenes called "Hologram" and "PC". "Hologram" is clean and used for hologram effect, it only contains the avatar and necessary functions. In "PC", there are various prop models and post-effects to bring a better visual experience.
+
 **Important: Put your own [AWS](https://aws.amazon.com/console/) keys(accessKey and secretKey) in line 99 of the script named WebRequest**
 
 ## ***Known Issues***
