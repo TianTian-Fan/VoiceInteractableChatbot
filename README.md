@@ -28,11 +28,12 @@ need PyAudio ```pip install pyaudio```
 
 **Important: Put your own [OpenAI API](https://openai.com/blog/openai-api) key in line 8 of the code**
 
-### ***Unity Side***
+### ***Unity Side(2021.3.11f recommended, I am not sure whether there is a issue in other version)***
 **I am sorry that I can't directly upload the project into GitHub due to the maximum file limit(The avatar model and animation created by Character Creator and iClone are over 50MB), so I will provide a link to download the project instead:**
 
 [Project Download](https://drive.google.com/file/d/1uYsbyf87-v0hFqGun_58hJD2LB9w36VB/view?usp=drive_link)
 
+If you encounter this when you try to open the unity project
 ![Issue](https://github.com/TianTian-Fan/VoiceInteractableChatbot/assets/71342545/4c1f6a32-8d51-43cf-a597-6ea22d7b9404)
 
 
