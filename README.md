@@ -41,10 +41,10 @@ If you encounter this when you try to open the Unity project:
 
 Don't worry, you only need to following steps to solve this:
 - Hit the "Continue" button to get into the project
-- Download the package [here](https://www.reallusion.com/auto-setup/unity/download.html), choose HDRP 12
+- Download the package **[here]**(https://www.reallusion.com/auto-setup/unity/download.html), choose HDRP 12
 - Extract the .zip file to a directory
-- In Unity, open the Package Manager window and click the Add button, then select Add package from disk
-- Navigate to where you placed the extracted files, select package.json
+- In Unity, open the **Package Manager** window and click the Add button, then select Add package from disk
+- Navigate to where you placed the extracted files, select **package.json**
 - The project should be good to go.
 
 There are two scenes called "Hologram" and "PC". "Hologram" is clean and used for hologram effect, it only contains the avatar and necessary functions. In "PC", there are various prop models and post-effects to bring a better visual experience.
